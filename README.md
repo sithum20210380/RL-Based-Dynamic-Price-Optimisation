@@ -68,7 +68,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dynamic-price-optimization.git
+git clone https://github.com/sithum20210380/RL-Based-Dynamic-Price-Optimisation.git
 cd dynamic-price-optimization
 ```
 
